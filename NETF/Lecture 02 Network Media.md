@@ -64,8 +64,8 @@ Wired Networking
         - fiber-optic carry light signals so not susceptible to interference or eavesdropping
 - cable grade
     - building & fire codes include specific cabling requirements
-    - cables ran between false ceiling
-        - true ceiling (plenum) must be plenum-rated
+    - cables ran between false ceiling (plenum) 
+        - must be plenum rated
     - UTP cabling marked as __communication cable riser (CMR)__ or __comm cable plenum (CMP)__
         - CMR can only be used for building risers/cable trays
         - CMP suitable for use in plenum spaces
@@ -130,7 +130,7 @@ __Twisted-Pair Cable Plant Components__
     - usually placed behind wall plates when cables run inside walls
 - patch cable
     - short cable for connecting computer to RJ-45 wall jack or connecting a patch-panel port to switch/hub
-        - can be made with inexpensive tols, 2 RJ-45 plugs & length of TP cable
+        - can be made with inexpensive tools, 2 RJ-45 plugs & length of TP cable
 - patch panels
     - used to terminate long runs of cable from where computers are to wiring closet (where switches & hubs are)
 - distribution racks
